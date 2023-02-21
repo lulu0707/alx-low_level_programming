@@ -1,2 +1,2 @@
-#1/bin/bash
-1.compiler
+#!/bin/bash
+2-assembler
