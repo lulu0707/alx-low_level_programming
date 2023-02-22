@@ -1,2 +1,2 @@
 #!/bin/bash
-creating an exxecutable file
+4-puts.c
