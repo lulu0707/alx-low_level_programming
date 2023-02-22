@@ -1,2 +1,2 @@
 #!/bin/bash
-2-assembler
+creating an exxecutable file
